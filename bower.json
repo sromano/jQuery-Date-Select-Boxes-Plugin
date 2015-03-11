@@ -1,6 +1,6 @@
 {
 	"name": "jQueryDateSelectBoxes",
-	"version": "2.0.0",
+	"version": "2.0.1",
 	"main": "jquery.dateSelectBoxes.js",
 	"ignore": [
 		"demo.html",
